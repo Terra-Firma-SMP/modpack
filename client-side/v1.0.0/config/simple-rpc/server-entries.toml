@@ -1,0 +1,14 @@
+#Enable/Disable Server Entries overrides
+enabled = true
+#Internal Version Number. NO TOUCHY!
+version = 2
+#Server override entries
+[[entry]]
+    ip = "play.terra-firma.fr"
+    description = "%serverip% - %world%"
+    state = "%player% joue avec %playersexcl% joueur(s)"
+    largeImageKey = ["terra_firma_smp_server"]
+    largeImageText = "Behemoth × Terra-Firma : New Horizons"
+    smallImageKey = ["terra_firma_smp"]
+    smallImageText = "Terra-Firma SMP Modpack [FORGE] 1.20.1"
+

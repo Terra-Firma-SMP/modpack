@@ -1,0 +1,6 @@
+
+#Render Settings
+[render]
+	#Choose to render the cable between the carriages or not (Useful for low floored trams)
+	"Render Couplings" = true
+
