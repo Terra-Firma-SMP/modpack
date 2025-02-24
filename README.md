@@ -16,14 +16,14 @@ Si vous avez des questions ou souhaitez donner votre avis, n'hésitez pas à rej
 
 # Commandes
 
-_**Coming soon...**_
+_Coming soon..._
 
 # FAQ
 > [!NOTE]
 > Aidez-nous à rendre cet espace plus utile en ajoutant vos questions avec une réponse ici.
 
 ### Où puis-je télécharger le modpack ?
-_**Coming soon...**_
+_Coming soon..._
 
 ### Puis-je rejoindre le serveur ?
 Malheureusement, le serveur est encore en **Beta**...
