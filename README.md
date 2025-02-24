@@ -36,7 +36,7 @@ Oui, veuillez d'abord lire les [directives](https://github.com/).
 ### Dois-je toujours m’informer des changements apportés au réseau ferroviaire public ?
 Non, si vous savez ce que vous faites ou si ces changements ne sont pas importants. Sur les itinéraires principaux, une coordination peut être utile pour éviter les conflits.
 
-### Puis-je créer ma propre entreprise ferroviaire ?
+### Puis-je créer ma propre compagnie ferroviaire ?
 Oui, mais avant d’envoyer de nouveaux trains sur les voies, assurez-vous qu’aucun autre train ne dessert déjà le même trajet.
 
 ### Puis-je ajouter de nouvelles voies ?
