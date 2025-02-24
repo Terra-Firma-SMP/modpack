@@ -1,5 +1,19 @@
 # Terra-Firma SMP | Modpack Forge 1.20.1
 
+<p align="center">
+  <a><img src="https://cdn.discordapp.com/attachments/1343446945968029750/1343447159676342302/terra_firma_smp.png?ex=67bd4e2a&is=67bbfcaa&hm=c412b1883739bb52ed476189283de13df06633bcf8e4380e6e2cd379dd9c91d3&" alt="Logo"></a>
+</p>
+<p align="center">
+  <a href="https://discord.gg/ZaCUxpj5g6"><img src="https://i.imgur.com/YnDoeHs.png" alt="Discord"></a>
+  <a href="https://github.com/Terra-Firma-SMP/modpack/releases"><img src="https://github.com/user-attachments/assets/7693a845-2ea8-404a-8429-152e44ff6a65" alt="Modlist and Modpack Download"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Terra-Firma-SMP/modpack/blob/main/rules.md"><img src="https://github.com/user-attachments/assets/b217719f-c2be-48b9-af35-1aa9a9eec5fc" alt="Rules"></a>
+  <a href="https://github.com/Terra-Firma-SMP/modpack/blob/main/standards.md"><img src="https://github.com/user-attachments/assets/4d0ed148-1b4c-452f-bb52-ae1e8a83ee5c" alt="Standards"></a>
+  <a href="https://github.com/Terra-Firma-SMP/modpack/blob/main/global_rail_network_guidelines.md"><img src="https://github.com/user-attachments/assets/bbefa202-d8dc-48a7-b00a-70edbf0c1541" alt="Public Rail Network Guidelines"></a>
+</p>
+
 # Informations générales
 Un serveur Minecraft SMP pour toute la communauté sans thème ni règles particulières et dont le but est de créer ensemble un grand réseau ferroviaire public et reproduire le réalisme du monde moderne. Que vous construisiez une ville, travailliez sur le réseau ferroviaire ou souhaitiez vivre des aventures : ce serveur est ouvert à tous !
 
