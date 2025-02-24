@@ -14,7 +14,7 @@ Un serveur Minecraft SMP pour toute la communauté sans thème ni règles partic
 
 Si vous avez des questions ou souhaitez donner votre avis, n'hésitez pas à rejoindre le serveur Discord.
 
-# Commands
+# Commandes
 
 _**Coming soon...**_
 
