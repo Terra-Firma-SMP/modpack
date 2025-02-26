@@ -4,7 +4,7 @@
   <a><img src="https://cdn.discordapp.com/attachments/1343446945968029750/1343447159676342302/terra_firma_smp.png?ex=67bd4e2a&is=67bbfcaa&hm=c412b1883739bb52ed476189283de13df06633bcf8e4380e6e2cd379dd9c91d3&" alt="Logo"></a>
 </p>
 <p align="center">
-  <a href="https://discord.gg/ZaCUxpj5g6"><img src="https://i.imgur.com/YnDoeHs.png" alt="Discord"></a>
+  <a href="https://discord.gg/6fdAGY3Hq7"><img src="https://i.imgur.com/YnDoeHs.png" alt="Discord"></a>
   <a href="https://github.com/Terra-Firma-SMP/modpack/releases"><img src="https://github.com/user-attachments/assets/7693a845-2ea8-404a-8429-152e44ff6a65" alt="Modlist and Modpack Download"></a>
 </p>
 
