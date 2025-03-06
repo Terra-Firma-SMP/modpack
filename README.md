@@ -17,6 +17,8 @@
 # Informations générales
 Un serveur Minecraft SMP pour toute la communauté sans thème ni règles particulières et dont le but est de créer ensemble un grand réseau ferroviaire public et reproduire le réalisme du monde moderne mais également avec des pokémons. Que vous construisiez une ville, travailliez sur le réseau ferroviaire ou souhaitiez vivre des aventures : ce serveur est ouvert à tous !
 
+test
+
 - **Forge 1.20.1**
 - **Survie**
 - Modpack avec environ 150 à 200 mods (y compris les mods de performance et de qualité de vie)
